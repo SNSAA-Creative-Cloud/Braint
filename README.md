@@ -10,8 +10,6 @@ Braint comes with an editor that allows you to create and manage the content of 
 
 ![Stride Editor](https://stride3d.net/images/external/script-editor.png)
 
-To learn more about Stride, visit [stride3d.net](https://stride3d.net/).
-
 ## License
 
 Stride is covered by the [GNU General v3 License](LICENSE) unless stated otherwise (i.e. for some files that are copied from other projects).
